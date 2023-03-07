@@ -1,3 +1,2 @@
-# M169
-Gitlab zum Modul 169
+# M169  
 https://gbssg.gitlab.io/m169/
